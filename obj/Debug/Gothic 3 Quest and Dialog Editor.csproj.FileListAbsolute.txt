@@ -1,0 +1,17 @@
+C:\GRY\Visual Studio 2022 Projects\Gothic 3 Quest and Dialog Editor\bin\Debug\Gothic 3 Quest and Dialog Editor.exe.config
+C:\GRY\Visual Studio 2022 Projects\Gothic 3 Quest and Dialog Editor\bin\Debug\Gothic 3 Quest and Dialog Editor.exe
+C:\GRY\Visual Studio 2022 Projects\Gothic 3 Quest and Dialog Editor\bin\Debug\Gothic 3 Quest and Dialog Editor.pdb
+C:\GRY\Visual Studio 2022 Projects\Gothic 3 Quest and Dialog Editor\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\GRY\Visual Studio 2022 Projects\Gothic 3 Quest and Dialog Editor\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\GRY\Visual Studio 2022 Projects\Gothic 3 Quest and Dialog Editor\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\GRY\Visual Studio 2022 Projects\Gothic 3 Quest and Dialog Editor\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\GRY\Visual Studio 2022 Projects\Gothic 3 Quest and Dialog Editor\obj\Debug\Gothic 3 Quest and Dialog Editor.csproj.AssemblyReference.cache
+C:\GRY\Visual Studio 2022 Projects\Gothic 3 Quest and Dialog Editor\obj\Debug\Gothic 3 Quest and Dialog Editor.csproj.SuggestedBindingRedirects.cache
+C:\GRY\Visual Studio 2022 Projects\Gothic 3 Quest and Dialog Editor\obj\Debug\Gothic_3_Quest_and_Dialog_Editor.Properties.Resources.resources
+C:\GRY\Visual Studio 2022 Projects\Gothic 3 Quest and Dialog Editor\obj\Debug\Gothic 3 Quest and Dialog Editor.csproj.GenerateResource.cache
+C:\GRY\Visual Studio 2022 Projects\Gothic 3 Quest and Dialog Editor\obj\Debug\Gothic 3 Quest and Dialog Editor.csproj.CoreCompileInputs.cache
+C:\GRY\Visual Studio 2022 Projects\Gothic 3 Quest and Dialog Editor\obj\Debug\Gothic 3 Quest and Dialog Editor.csproj.CopyComplete
+C:\GRY\Visual Studio 2022 Projects\Gothic 3 Quest and Dialog Editor\obj\Debug\Gothic 3 Quest and Dialog Editor.exe
+C:\GRY\Visual Studio 2022 Projects\Gothic 3 Quest and Dialog Editor\obj\Debug\Gothic 3 Quest and Dialog Editor.pdb
+C:\GRY\Visual Studio 2022 Projects\Gothic 3 Quest and Dialog Editor\obj\Debug\Gothic_3_Quest_and_Dialog_Editor.Form1.resources
+C:\GRY\Visual Studio 2022 Projects\Gothic 3 Quest and Dialog Editor\obj\Debug\Gothic_3_Quest_and_Dialog_Editor.FormCreateNewFile.resources
